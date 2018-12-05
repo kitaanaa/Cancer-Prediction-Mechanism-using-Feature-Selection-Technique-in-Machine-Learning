@@ -1,0 +1,2 @@
+# Cancer-Prediction-Mechanism-using-Feature-Selection-Technique-in-Machine-Learning
+Designed a Cancer Prediction mechanism by implementing a feature selection technique using Simulated Annealing Algorithm. The idea of feature selection is to select only the most relevant and important attributes for the prediction and by performing this the efficiency of the prediction improved the accuracy by 6%. The prediction phase is implemented using Support Vector Machine algorithm 
